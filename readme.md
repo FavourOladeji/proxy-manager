@@ -170,7 +170,6 @@ chrome-proxy-manager/
 ├── popup.html        # User interface
 ├── popup.css         # Styling
 ├── popup.js          # UI logic & validation
-└── icons/            # Extension icons
 ```
 
 ### Making Changes
