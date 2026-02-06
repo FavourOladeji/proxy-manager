@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Proxy Manager",
+  "version": "1.0.0",
+  "description": "Simple and secure proxy connection manager",
+  "permissions": [
+    "proxy",
+    "storage",
+    "webRequest",
+    "webRequestAuthProvider"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
