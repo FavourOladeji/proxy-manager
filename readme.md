@@ -220,7 +220,7 @@ Built with ❤️ for developers who value their time.
 
 ---
 
-**Made by**: Favour Oladeji
+**Made by**: Favour Oladeji  
 **Version**: 1.0.1  
 **Last Updated**: February 2026
 
